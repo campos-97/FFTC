@@ -1,0 +1,3 @@
+/home/andres/CLionProjects/LescoRecogTest/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/andres/CLionProjects/LescoRecogTest/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/andres/CLionProjects/LescoRecogTest/cmake-build-debug/CMakeFiles/LescoRecogTest.dir
